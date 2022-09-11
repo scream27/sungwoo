@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Sungwoo Nam"
-  avatar           : "profile.png"
-  bio              : ""
-  location         : ""
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  avatar           : 
+  bio              : 
+  location         : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : ""
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
