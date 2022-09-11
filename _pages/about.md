@@ -10,5 +10,5 @@ redirect_from:
 
 
 ======
-I am a graduate student at University of Illinois at Urbana-Champaign. My research interst lies in enumerative geometry. My advisor is Sheldon Katz. Here is my [CV]([files](https://scream27.github.io/sungwoo/files/CV-2.pdf)).
+I am a graduate student at University of Illinois at Urbana-Champaign. My research interst lies in enumerative geometry. My advisor is Sheldon Katz. Here is my [CV]([files](CV-2.pdf)).
 ------
