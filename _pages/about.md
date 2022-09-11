@@ -12,5 +12,4 @@ redirect_from:
 About me
 ======
 I am a graduate student at University of Illinois at Urbana-Champaign. My research interst lies in enumerative geometry. My advisor is Sheldon Katz.
-Site-wide configuration
 ------
