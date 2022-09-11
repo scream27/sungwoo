@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sungwoo"
 title_separator          : "-"
 name                     : &name "Sungwoo Nam"
-description              : &description "I am a graduate student at University of Illinois at Urbana-Champaign"
+description              : &description ""
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Sungwoo Nam"
   avatar           : "profile.png"
-  bio              : "I am a graduate student at University of Illinois at Urbana-Champaign"
-  location         : "Location"
+  bio              : ""
+  location         : ""
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : ""
   google_plus      :
   keybase          :
   instagram        :
