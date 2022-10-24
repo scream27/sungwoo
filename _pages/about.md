@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a graduate student at University of Illinois at Urbana-Champaign. My research interest lies in enumeratie algebraic geometry. My advisor is [Sheldon Katz](https://faculty.math.illinois.edu/~katz/). Here is my [CV](https://scream27.github.io/sungwoo/files/CV-web.pdf).
 
-I am currently on the job market. Feel free to contact me at [sungwoo2@illinois.edu](sungwoo2@illinois.edu).
+I am currently on the job market. Feel free to contact me at [sungwoo2@illinois.edu](mailto:sungwoo2@illinois.edu).
 
 - Papers and preprints
 
