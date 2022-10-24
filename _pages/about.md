@@ -11,5 +11,5 @@ I am a graduate student at University of Illinois at Urbana-Champaign. My resear
 
 - Papers and preprints
 
-(With S. Katz) [Local enumerative invariants of some simple normal crossing del Pezzo surfaces](https://arxiv.org/abs/2209.13031), arXiv:2209.13031
+(With S. Katz) [Local enumerative invariants of some simple normal crossing del Pezzo surfaces](https://arxiv.org/abs/2209.13031), submitted, arXiv:2209.13031.
 ------
