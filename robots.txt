@@ -1,2 +1,4 @@
+Sitemap: https://scream27.github.io/sungwoo/sitemap.xml 
+
 User-agent: *
 Disallow:
